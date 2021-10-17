@@ -1,4 +1,4 @@
-Projects about web scraping with Python
+# Projects about web scraping with Python
 
 
 ## 1-The project coronaTr.py is made with Selenium. Making web scraping automatically and easy, rather than to usign libraries.
