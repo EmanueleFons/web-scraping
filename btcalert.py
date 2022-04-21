@@ -22,7 +22,7 @@ def sendemail():
     server.starttls()
     server.ehlo()
 
-    server.login('smtpbtc@gmail.com', 'Av7866!g')
+    server.login('smtpbtc@gmail.com', )
 
     subject = 'O Bitcoin atigiu os 50k!'
     body = f'O bitcoin abou de atingir a cotação: {pricetext}'
